@@ -1,0 +1,2 @@
+drinking water||done
+adding tasks||not_done
